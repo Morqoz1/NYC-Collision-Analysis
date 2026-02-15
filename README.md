@@ -1,2 +1,2 @@
 # NYC-Collision-Analysis
-The analysis covers the total injuries, fatalities and casualities that occur in Newyork over the period of 3years(2021-2023) and what might be the cause and the percentage of group of people involved. 
+This project conducts an in-depth exploratory analysis of New York City motor vehicle collision data to uncover spatial, temporal, and causal patterns. It highlights high-risk locations, peak incident periods, and key contributing factors, providing actionable insights to support evidence-based road safety planning and decision-making.
